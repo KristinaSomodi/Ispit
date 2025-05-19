@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.36105.23 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ispit.Model", "Ispit.Model.csproj", "{75BB1141-888A-4476-981B-5220C080748B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ispit.Konzola", "..\Ispit.Konzola\Ispit.Konzola.csproj", "{479B1DD4-B240-4377-AB99-08DF1FEE3DCA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75BB1141-888A-4476-981B-5220C080748B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75BB1141-888A-4476-981B-5220C080748B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75BB1141-888A-4476-981B-5220C080748B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75BB1141-888A-4476-981B-5220C080748B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{479B1DD4-B240-4377-AB99-08DF1FEE3DCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{479B1DD4-B240-4377-AB99-08DF1FEE3DCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{479B1DD4-B240-4377-AB99-08DF1FEE3DCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{479B1DD4-B240-4377-AB99-08DF1FEE3DCA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {774C1364-16C2-4628-B168-34EF8F5C2C44}
+	EndGlobalSection
+EndGlobal

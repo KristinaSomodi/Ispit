@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Niko.Culjak\\projects\\Ispit.Model\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{479B1DD4-B240-4377-AB99-08DF1FEE3DCA}|..\\Ispit.Konzola\\Ispit.Konzola.csproj|c:\\users\\niko.culjak\\projects\\ispit.konzola\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75BB1141-888A-4476-981B-5220C080748B}|Ispit.Model.csproj|c:\\users\\niko.culjak\\projects\\ispit.model\\ucenik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75BB1141-888A-4476-981B-5220C080748B}|Ispit.Model.csproj|solutionrelative:ucenik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Niko.Culjak\\projects\\Ispit.Konzola\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Ispit.Konzola\\Program.cs",
+              "ToolTip": "C:\\Users\\Niko.Culjak\\projects\\Ispit.Konzola\\Program.cs",
+              "RelativeToolTip": "..\\Ispit.Konzola\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T16:58:41.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ucenik.cs",
+              "DocumentMoniker": "C:\\Users\\Niko.Culjak\\projects\\Ispit.Model\\Ucenik.cs",
+              "RelativeDocumentMoniker": "Ucenik.cs",
+              "ToolTip": "C:\\Users\\Niko.Culjak\\projects\\Ispit.Model\\Ucenik.cs",
+              "RelativeToolTip": "Ucenik.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T16:44:54.318Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
